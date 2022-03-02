@@ -1,0 +1,16 @@
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\bin\Debug\net5.0\LinqLambdaPractice.exe
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\bin\Debug\net5.0\LinqLambdaPractice.deps.json
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\bin\Debug\net5.0\LinqLambdaPractice.runtimeconfig.json
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\bin\Debug\net5.0\LinqLambdaPractice.runtimeconfig.dev.json
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\bin\Debug\net5.0\LinqLambdaPractice.dll
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\bin\Debug\net5.0\ref\LinqLambdaPractice.dll
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\bin\Debug\net5.0\LinqLambdaPractice.pdb
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\LinqLambdaPractice.csproj.AssemblyReference.cache
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\LinqLambdaPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\LinqLambdaPractice.AssemblyInfoInputs.cache
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\LinqLambdaPractice.AssemblyInfo.cs
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\LinqLambdaPractice.csproj.CoreCompileInputs.cache
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\LinqLambdaPractice.dll
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\ref\LinqLambdaPractice.dll
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\LinqLambdaPractice.pdb
+C:\Dhanush\Full stack Training\C#\LinqLambdaPractice\obj\Debug\net5.0\LinqLambdaPractice.genruntimeconfig.cache
